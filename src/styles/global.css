@@ -1,0 +1,97 @@
+html {
+  background-color: lavenderblush;
+}
+
+p {
+  color: black;
+}
+
+.post-title {
+}
+
+.post-date::before {
+  content: "Last Updated: "
+}
+
+.dividing-line {
+  margin: 1 auto;
+  text-align: center;
+
+}
+
+.navbar{
+  color: black!important;
+  width: 100%;
+}
+
+.navbar a {
+  color: black;
+}
+
+.navbar a:hover {
+  color: #3d3d3d;
+}
+
+.navbar .navbar-brand{
+  /* font-weight: bold; */
+  font-size: 200%;
+}
+._popover {
+  position: absolute;
+}
+._popover {
+  position: absolute;
+}
+
+.post-container {
+  height: 100%!important;
+  margin-bottom: 100px;
+}
+.post-link-container{
+  margin-bottom: 50px;
+
+}
+.post-link {
+  color: black;
+  margin-top: 100px;
+  font-size: 200%;
+
+}
+.post-link:hover {
+  color: darkslategray;
+}
+.post-link-date::before {
+  content: "Last Updated: ";
+  font-weight: bold;
+}
+
+.post-link-tags::before {
+  content: "Tags: ";
+  font-weight: bold;
+}
+
+.brand-name::before{
+  content: "Tech Minecraft";
+  font-weight: bold;
+  border-bottom: 1px solid currentColor;
+}
+.brand-name::after{
+  content: " Wiki";
+  font-weight: 100;
+}
+svg {
+  color: black;
+}
+svg:hover {
+  color: #3d3d3d;
+}
+
+.footer {
+    position: absolute;
+    bottom: -200px;
+    width: 100%;
+    height: 10vh;
+}
+.space {
+  height: 3rem;
+}
