@@ -59,7 +59,7 @@ may sometime in the near future move away from this, but it is currently what we
 * Any questions please contact jackbaude@gmail.com, or friend me on discord `Jakku#1123`.
 
 
-#License
+# License
 A short and simple permissive license with conditions only requiring 
 preservation of copyright and license notices. Licensed works, modifications, 
 and larger works may be distributed under different terms and without source 
