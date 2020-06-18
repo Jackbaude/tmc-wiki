@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Technical Minecraft Wiki`,
-    description: `hi.`,
-    author: ``,
+    description: `A wiki for the minecraft technical community to organize everyone's
+    knowledge into one place that is accessible and quick to reference. `,
+    author: `Jakku`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

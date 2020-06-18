@@ -1,6 +1,5 @@
 
 import React from "react"
-import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -27,23 +26,24 @@ const IndexPage = () => (
    <h2 id="making-posts">Making posts</h2>
    <hr className="dividing-line"/>
    <p>As of right now the way we are uploading posts to the site is by making pull requests to the wiki. If you would like to post, make a pull request with a markdown file <code>.md</code> to in the <code>/Posts</code> folder.</p>
-   <ul >
-   <li>Copy and paste this into the markdown file, including the 3 dash marks on top and bottom that you are PR. slug and path are the url to the post, they must be the same and must be <strong>all lower case</strong>, <strong>URL safe</strong> - stick with hyphens and alphanumerics.
-   <code>
-     <p>---</p>
-     <p>slug: &quot;/posts/post-url&quot;</p>
-     <p>path: &quot;/posts/post-url</p>
-     <p>date: &quot;YYYY-MM-DD&quot;</p>
-     <p>title: &quot;TITLE&quot;</p>
-     <p>tags: foo, bar</p>
-     <p>---</p>
-   </code>
-    # Markdown post goes here.</li>
-   </ul>
+   <ul>
+     <p>1. Copy and paste this into the markdown file, including the 3 dash marks on top and bottom that you are PR. slug and path are the url to the post, they must be the same and must be <strong>all lower case</strong>, <strong>URL safe</strong> - stick with hyphens and alphanumerics. </p>
+    <div className="code-block">
+     <p><code>---</code></p>
+     <p><code>slug: &quot;/posts/post-url&quot;</code></p>
+     <p><code>date: &quot;YYYY-MM-DD&quot;</code></p>
+     <p><code>path: &quot;/posts/post-url</code></p>
+     <p><code>title: &quot;TITLE&quot;</code></p>
+     <p><code>tags: foo, bar</code></p>
+     <p><code>---</code></p>
 
-   <p> 2. Once you have added the top part to the markdown<code>.md </code> file, start writing!
-   3. <strong>Important:</strong> Please separate any information that is difference among versions with a header.
-   <p>4. Make a <a href="https://github.com/Jackbaude/tmc-wiki/compare">pull request</a> and wait for it to be merged!</p> </p>
+    <p># Markdown post goes here.</p>
+    </div>
+
+   <p> 2. Once you have added the top part to the markdown<code>.md </code> file, start writing!</p>
+   <p> 3. <strong>Important:</strong> Please separate any information that is difference among versions with a header. </p>
+   <p>4. Make a <a href="https://github.com/Jackbaude/tmc-wiki/compare">pull request</a> and wait for it to be merged!</p>
+   </ul>
    <h2 id="for-developers">For developers</h2>
    <hr className="dividing-line"/>
    <p>Want to contribute to the code base? Here's how.</p>

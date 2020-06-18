@@ -1,7 +1,6 @@
 import React, { Component } from "react"
 import { Index } from "elasticlunr"
 import { Link } from "gatsby"
-import styled from "@emotion/styled"
 
 export default class Search extends Component {
   state = {

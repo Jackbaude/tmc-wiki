@@ -1,5 +1,4 @@
 import React from "react"
-import {Link} from "gatsby"
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faDiscord, faGithub, faYoutube} from '@fortawesome/free-brands-svg-icons'
 

@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, graphql, StaticQuery } from "gatsby"
+import {graphql, StaticQuery } from "gatsby"
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faDiscord, faYoutube, faGithub} from '@fortawesome/free-brands-svg-icons'
 import Search from "./search"
@@ -24,17 +24,13 @@ const Nav = ({ post }) => (
           </a>
           <div className="dropdown-menu" aria-labelledby="navbarDropdown">
             <a className="dropdown-item" href="https://discord.gg/FcTFg2E" target="_blank"rel="noreferrer noopener"><FontAwesomeIcon icon={faDiscord}/> Discord</a>
-            <a className="dropdown-item" href="https://www.youtube.com/channel/UCf9SYal_h3WSoksvxLYruuQ"target="_blank"rel="noreferrer noopener"> <FontAwesomeIcon icon={faYoutube}/> Youtube</a>
             <div className="dropdown-divider"></div>
-            <a className="dropdown-item" href="www.hekatemc.com" target="_blank"rel="noreferrer noopener" >Main Website</a>
+            <a className="dropdown-item" href="https://www.youtube.com/channel/UCf9SYal_h3WSoksvxLYruuQ"target="_blank"rel="noreferrer noopener"> <FontAwesomeIcon icon={faYoutube}/> Youtube</a>
+
+
           </div>
         </li>
       </ul>
-      {/*<form className="form-inline my-2 my-lg-0">*/}
-      {/*  <input className="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search"/>*/}
-      {/*  <button className="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>*/}
-
-      {/*</form>*/}
       <StaticQuery
     query={graphql`
         query SearchIndexQuery {

@@ -5,20 +5,6 @@ html {
 p {
   color: black;
 }
-
-.post-title {
-}
-
-.post-date::before {
-  content: "Last Updated: "
-}
-
-.dividing-line {
-  margin: 1 auto;
-  text-align: center;
-
-}
-
 .navbar{
   color: black!important;
   width: 100%;
@@ -36,13 +22,31 @@ p {
   /* font-weight: bold; */
   font-size: 200%;
 }
-._popover {
-  position: absolute;
+
+.brand-name::before{
+  content: "Tech Minecraft";
+  font-weight: bold;
+  border-bottom: 1px solid currentColor;
 }
-._popover {
-  position: absolute;
+.brand-name::after{
+  content: " Wiki";
+  font-weight: 100;
 }
 
+._popover {
+  position: absolute;
+
+}
+
+.post-date::before {
+  content: "Last Updated: "
+}
+
+.dividing-line {
+  margin: 1 auto;
+  text-align: center;
+
+}
 .post-container {
   height: 100%!important;
   margin-bottom: 100px;
@@ -69,16 +73,6 @@ p {
   content: "Tags: ";
   font-weight: bold;
 }
-
-.brand-name::before{
-  content: "Tech Minecraft";
-  font-weight: bold;
-  border-bottom: 1px solid currentColor;
-}
-.brand-name::after{
-  content: " Wiki";
-  font-weight: 100;
-}
 svg {
   color: black;
 }
@@ -95,8 +89,8 @@ svg:hover {
 .space {
   height: 3rem;
 }
-pre code {
-  border: 1px solid #999;
-  display: block;
-  padding: 20px;
+code{
+  background: #f6f8fa;
+  padding: 2px;
+  border-radius: 5px;
 }

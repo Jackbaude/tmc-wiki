@@ -9,6 +9,4 @@ tags: foo, bar
 
 
 
-# Wow such title 
-
-Some cool information
+# Wow such title
