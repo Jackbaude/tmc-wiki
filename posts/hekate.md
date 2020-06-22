@@ -19,7 +19,8 @@ Derpapottamus himself owns and runs the server from his home, along side the cmp
 While the server runs on carpet mod, the server votes on features to allow such as easy place or careful break. The server dupes gravity blocks, and has a recipe for elytra.
 
 ## Current member list as of June 18, 2020.
-ino                    
+Owner: Derpapottamus
+lino                    
 iceburg                    
 irelia                    
 kuiri                    

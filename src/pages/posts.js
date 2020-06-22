@@ -17,7 +17,7 @@ const Posts = ({
   return (
     <div>
     <Layout>
-    <SEO title="Posts" />
+    <SEO title="Posts"/>
       {Posts}
     </Layout>
       </div>

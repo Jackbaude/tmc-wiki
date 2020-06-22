@@ -1,4 +1,3 @@
-import ReactDOM from 'react-dom'
 import React, { Component } from "react"
 import { Index } from "elasticlunr"
 import { Link } from "gatsby"
@@ -12,7 +11,6 @@ export default class Search extends Component {
     return (
       <div>
         <input className="form-control mr-sm-2 search-bar" type="text" placeholder="Search" value={this.state.query} onChange={this.search} />
-
         <div>
             <ul className="_popover list-group list-group-flush">
               <br/>
@@ -35,7 +33,6 @@ export default class Search extends Component {
   }
 
   search = evt => {
-    ReactDOM.unmountComponentAtNode(document.getElementById('main'));
     const query = evt.target.value
     this.index = this.getOrCreateIndex()
     this.setState({
