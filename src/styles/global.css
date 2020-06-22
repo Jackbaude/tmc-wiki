@@ -20,24 +20,31 @@ p {
 
 .navbar .navbar-brand{
   /* font-weight: bold; */
-  font-size: 200%;
+  font-size: 1rem;
 }
 
 .brand-name::before{
   content: "Tech Minecraft";
   font-weight: bold;
   border-bottom: 1px solid currentColor;
+
 }
 .brand-name::after{
   content: " Wiki";
   font-weight: 100;
 }
 
+
+.search-bar {
+  position: relative;
+}
 ._popover {
   position: absolute;
+  top: 100px;
+  left: 100px;
+
 
 }
-
 .post-date::before {
   content: "Last Updated: "
 }

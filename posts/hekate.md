@@ -1,7 +1,7 @@
 ---
 slug: "/posts/hekate"
-date: "2020-06-18"
 path: "/posts/hekate"
+date: "2020-06-18"
 title: "Hekate"
 tags: server, hekate
 ---

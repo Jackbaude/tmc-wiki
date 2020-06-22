@@ -30,7 +30,7 @@ const Footer = ({post}) => (
       </div>
 
       <div class="footer-copyright text-center py-3">© 2020 Copyright:
-        <a href="https://mdbootstrap.com/"> technicalmc.xyz</a>
+        <a href="www.technicalmc.xyz/"> technicalmc.xyz</a>
       </div>
     </footer>
     </div>

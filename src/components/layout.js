@@ -35,7 +35,7 @@ const Layout = ({ children }) => {
       >
         <Nav/>
         <div className="space"></div>
-        <main>{children}</main>
+        <main id="main">{children}</main>
         <Footer/>
       </div>
     </>

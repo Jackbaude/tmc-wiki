@@ -1,3 +1,4 @@
+import ReactDOM from 'react-dom'
 import React, { Component } from "react"
 import { Index } from "elasticlunr"
 import { Link } from "gatsby"
@@ -7,15 +8,14 @@ export default class Search extends Component {
     query: ``,
     results: []
  }
-  newResults(){
-
-  }
   render() {
     return (
       <div>
-        <input className="form-control mr-sm-2" type="text" placeholder="Search" value={this.state.query} onChange={this.search} />
-          <div>
+        <input className="form-control mr-sm-2 search-bar" type="text" placeholder="Search" value={this.state.query} onChange={this.search} />
+
+        <div>
             <ul className="_popover list-group list-group-flush">
+              <br/>
               {this.state.results.map(page => (
                 <li className="list-group-item" key={page.id}>
                   <Link to={"/" + page.path}>{page.title}</Link>
@@ -35,6 +35,7 @@ export default class Search extends Component {
   }
 
   search = evt => {
+    ReactDOM.unmountComponentAtNode(document.getElementById('main'));
     const query = evt.target.value
     this.index = this.getOrCreateIndex()
     this.setState({
