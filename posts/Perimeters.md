@@ -1,7 +1,7 @@
 ---
 slug: "/posts/perimeters"
 path: "/posts/perimeters"
-date: "2020-6-24"
+date: "06-24-2020"
 title: "Perimeters"
 tags: mobs, spawning, perimeter, perimeters
 ---
