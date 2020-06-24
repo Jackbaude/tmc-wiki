@@ -5,6 +5,7 @@ date: "2020-6-24"
 title: "Perimeters"
 tags: mobs, spawning, perimeter, perimeters
 ---
+
 # Definition
 The definition of a perimeter varies widely in the technical community, but it generally refers to either of the following:
 1.  An area where no mobs can spawn with the player in a certain position  
