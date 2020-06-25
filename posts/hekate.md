@@ -1,7 +1,7 @@
 ---
 slug: "/posts/hekate"
 path: "/posts/hekate"
-date: "2020-06-18"
+date: "2020-06-25"
 title: "Hekate"
 tags: server, hekate
 ---
@@ -18,7 +18,7 @@ Derpapottamus himself owns and runs the server from his home, along side the cmp
 
 While the server runs on carpet mod, the server votes on features to allow such as easy place or careful break. The server dupes gravity blocks, and has a recipe for elytra.
 
-## Current member list as of June 18, 2020.
+## Current member list as of June 25, 2020.
 Owner: Derpapottamus
 lino                    
 iceburg                    
@@ -62,5 +62,6 @@ prgmtble
 savy                    
 unijack             
 krozjin  
-falseiokkon
-Kirill_Iceland
+falseiokkon   
+Kirill_Iceland   
+Hazza
