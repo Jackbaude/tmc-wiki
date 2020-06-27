@@ -3,7 +3,7 @@ slug: "/posts/hypnos"
 path: "/posts/hypnos"
 date: "2020-06-22"
 title: "Hypnos"
-tags: server, hypnos
+tags: server, hypnos, bestnos
 ---
 
 # History
@@ -16,23 +16,23 @@ Hypnos has some remarkable projects that are among the best in the community. Th
 Hypnos currently has three RNG grids: one for ore RNG, one for iron RNG (or as we call it, RRNG) and one for husk RNG.
 # Server details
 NotCreative runs all of Hypnos' servers, which typically include the SMP, CMP and SMP copy. The server runs on 1.12.2 carpet, with various rules enabled in order to make more resources available without having to duplicate them, and to make the game more fun to play.
-The server votes on which rules to enable and how to obtain certain items. Notably, husks spawn in temples and drop sand on death, silverfish drop gravel when escaping a block and we use careful break. The full list of server specifications and rules can be found on the website, [here](https://hypnos.us.to/pages/about.html).
+The server votes on which rules to enable and how to obtain certain items. Notably, husks spawn in temples and drop sand on death, silverfish drop gravel when escaping a block, Shulkers respawning in end cities and we use QoL features such as careful break. The full list of server specifications and rules can be found on the website, [here](https://hypnos.us.to/pages/about.html).
 # Current member list as of June 20, 2020, sorted by join date.
-NotCreative (owner)   
+NotCreative (Owner)   
 RR   
-Bleddyn (admin)   
+Bleddyn (Admin)   
 Dryhb   
 Iceburg   
 Rift   
 Propogand   
 Phreak   
 Trekker   
-BlueCore   
-Daniel (admin)   
+BlueCore   (Almost as cool as Hazza.)
+Daniel (Admin)   
 Kelvin   
 Trekker   
 Cursed   
-Hazza (really cool guy)   
+Hazza (Really cool guy)   
 Gekkemat   
 Terra   
 ImplicitPsycho   
@@ -47,15 +47,15 @@ M3dry
 Ima   
 zAngarn   
 Pocketomi   
-Funkymonk (trial member)   
+Funkymonk (Trial Member)   
 M4JCI   
-Samipourquoi (trial member)   
-Sup3rFad3d (trial member)   
-Jurassic Fighter (trial member)   
-Bluestranger   
-Astral (trial member)   
-algorithmguy (trial member)   
-Picko (trial member)   
-Blanc (trial member)   
-Assassin (trial member)   
-Skanux (trial member)   
+Samipourquoi (Trial Member)   
+Sup3rFad3d (Trial Member)   
+Jurassic Fighter (Trial Member)   
+Bluestranger      
+Algorithmguy (Trial Member)   
+Picko (Trial Member)   
+Blanc (Trial Member)   
+Assassin (Trial Member)   
+Skanux (Trial Member)   
+Oblivion (Trial Member)
