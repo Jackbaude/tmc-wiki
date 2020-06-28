@@ -16,7 +16,9 @@ Chunk save-state is a bug found by Xcom, Skyrising and Earthcomputer. It's used 
 
 Video on it by Earthcomputer - https://youtu.be/uw7vEGhKoH8
 
-Thank you NotCreative for fixing my spelling
+Wrote by Chezloc, Spelling fixed by NotCreative
+
+
 
 
 
