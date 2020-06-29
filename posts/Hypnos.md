@@ -27,7 +27,7 @@ Rift
 Propogand   
 Phreak   
 Trekker   
-BlueCore   (Almost as cool as Hazza.)
+BlueCore (Almost as cool as Hazza.)   
 Daniel (Admin)   
 Kelvin   
 Trekker   
@@ -58,4 +58,5 @@ Picko (Trial Member)
 Blanc (Trial Member)   
 Assassin (Trial Member)   
 Skanux (Trial Member)   
-Oblivion (Trial Member)
+Oblivion (Trial Member)   
+GaymerGirl_69 (Trial Member)   
