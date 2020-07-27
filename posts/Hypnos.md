@@ -19,10 +19,10 @@ NotCreative runs all of Hypnos' servers, which typically include the SMP, CMP an
 The server votes on which rules to enable and how to obtain certain items. Notably, husks spawn in temples and drop sand on death, silverfish drop gravel when escaping a block, Shulkers respawning in end cities and we use QoL features such as careful break. The full list of server specifications and rules can be found on the website, [here](https://hypnos.us.to/pages/about.html).
 # Current member list as of June 20, 2020, sorted by join date.
 NotCreative (Owner)   
-RR   
+RR (Inactive Member)
 Bleddyn (Admin)   
 Dryhb   
-Iceburg   
+Iceburg (Inactive Member)
 Rift   
 Propogand   
 Phreak   
@@ -38,8 +38,8 @@ Terra
 ImplicitPsycho   
 Gellnick   
 Chezloc   
-Bagatelle   
-Viktor   
+Bagatelle (Inactive Member)
+Viktor40 (Inactive Member)
 Rusty   
 Ciren   
 M3dry   
