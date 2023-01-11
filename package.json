@@ -24,7 +24,7 @@
     "gatsby-plugin-typography": "^2.5.4",
     "gatsby-source-filesystem": "^2.3.11",
     "gatsby-source-graphql": "^2.5.4",
-    "gatsby-transformer-remark": "^2.8.15",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.5.3",
     "jquery": "^3.5.1",
     "js-search": "^2.0.0",
